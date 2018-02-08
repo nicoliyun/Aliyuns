@@ -10,4 +10,9 @@ public class Hello {
     public void test_o() {
         test_m(4,2);
     }
+
+    @Test
+    public void test_w() {
+        test_m(4,2);
+    }
 }
